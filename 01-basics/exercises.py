@@ -142,7 +142,7 @@ print(f"Tam isim: {full_name}")
 
 # BONUS 2: Email oluştur
 print("\n📌 BONUS 2: Email Adresi Oluşturma")
-print("-"*60")
+print("-"*60)
 ad = "  Ali Kağan  "
 soyad = "  Top  "
 
